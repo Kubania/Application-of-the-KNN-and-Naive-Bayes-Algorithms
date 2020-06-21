@@ -14,7 +14,7 @@ Date: 21/06/2020
 - CRISP Methodology  <br />
 - Exploratory Data Analysis
 
-### Algorithms <br/>
+# Algorithms <br/>
   - K-Nearest Neighbour <br/>
   - Naive Bayes
   
